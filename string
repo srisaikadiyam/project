@@ -1,0 +1,13 @@
+git init
+git add 
+git commit -m ""[Dmessage"
+git log
+git log --online
+git push origin master
+git branch 
+git checkout
+git rebase
+git squash
+git stash
+git stash pop
+git ammend
